@@ -1,0 +1,2 @@
+nasm -f elf32 -o payload.o payload.asm
+ld -o payload payload.o
