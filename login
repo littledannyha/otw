@@ -1,2 +1,2 @@
 #!/bin/bash
-ssh $1@narnia.labs.overthewire.org
+ssh narnia$1@narnia.labs.overthewire.org
